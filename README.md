@@ -2,7 +2,7 @@
 
 A modern, secure platform that combines URL shortening and image compression capabilities. Built with React, Supabase, and Tailwind CSS, LinkSnap offers a seamless experience for managing your links and optimizing images.
 
-![LinkSnap Demo](https://images.unsplash.com/photo-1432888622747-4eb9a8f1c28b?auto=format&fit=crop&q=80&w=1740)
+<a href="https://strong-sunflower-f6d590.netlify.app/">LinkSnap Demo</a> 
 
 ## Features
 
